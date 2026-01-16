@@ -1,0 +1,44 @@
+/* Base typography and layout */
+body { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji'; }
+.header { padding: 16px 12px; }
+.header h1 { margin: 0; font-size: 24px; }
+.header .sub { color: #555; margin-top: 4px; }
+
+/* Legend */
+.legend { margin-top: 8px; color: #444; }
+.legend .box { display:inline-block; width:12px; height:12px; border:1px solid #555; margin-right:6px; vertical-align:middle; }
+.legend .person { background:#87CEEB; }
+.legend .pub { background:#90EE90; margin-left:16px; }
+.legend .pub_pi { background:#F6C445; margin-left:16px; }
+.legend .hint { color:#777; margin-left:16px; font-size: 12px; }
+
+/* Panels */
+.panel { border:1px solid #e0e0e0; background:#f7fbff; border-radius:8px; padding:12px; }
+.panel .row { display:flex; flex-wrap:wrap; gap:8px; }
+.panel input, .panel button, .panel textarea { font-size: 14px; }
+
+/* Info box */
+.info-box { border-radius: 8px; padding:12px; border:1px solid #e0e0e0; background:#fafafa; margin:0 0 8px 0; }
+.info-title { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+.info-line { margin-top: 2px; }
+
+/* Floating controls */
+#floating_controls { position:fixed; bottom:16px; right:16px; z-index:1000; background:rgba(255,255,255,0.95); padding:8px; border:1px solid #e0e0e0; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.08); }
+#floating_controls button { cursor: pointer; }
+#floating_controls label input { margin-right: 6px; }
+#floating_controls .fc-body { max-height: 800px; overflow: hidden; transition: max-height 0.25s ease; display:flex; flex-direction:column; gap:6px; width:180px; }
+#floating_controls.collapsed .fc-body { max-height: 0; }
+#floating_controls .fc-header { display:flex; align-items:center; justify-content:flex-end; gap:6px; margin-bottom:6px; }
+#floating_controls .fc-header button { border: 1px solid #ddd; background: #fff; border-radius: 4px; width:24px; height:24px; line-height:20px; text-align:center; }
+
+/* Separate fixed legend box (top-right, under banner) */
+/* User requested a much lower placement */
+#legend_box { position: fixed; top: 220px; right: 16px; z-index: 1000; background: #ffffff; padding: 10px 12px; border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); font-size: 13px; }
+#legend_box .legend { display:flex; gap:10px; align-items:center; color:#333; }
+#legend_box .legend .box { width:14px; height:14px; border:1px solid #555; }
+
+/* Slight responsive adjustment so legend doesn't overlap header on narrow screens */
+@media (max-width: 720px) {
+	/* Also move lower on narrow screens */
+	#legend_box { top: 260px; right: 10px; left: auto; }
+}

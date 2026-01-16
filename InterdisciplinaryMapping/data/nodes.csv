@@ -1,0 +1,153 @@
+id,label,kind,PI,pi_count
+person:1,Drew Higgins,person,true,
+person:2,Curtis Berlinguette,person,true,
+person:3,Yimin Wu,person,true,
+person:4,Chandra Veer Singh,person,true,
+person:5,Dwight Seferos,person,true,
+person:6,Gisele Azimi,person,true,
+person:7,Aimy Bazylak,person,true,
+person:8,Viola Birss,person,true,
+person:9,Ted Sargent,person,true,
+person:10,David Sinton,person,true,
+person:11,Shayan Angizi,person,false,
+person:12,Robert Ngunjuri,person,false,
+person:13,Reem Jalab,person,false,
+person:14,Mengnan Zhu,person,false,
+person:15,Mahtab Masouminia,person,false,
+person:16,Navid Noor,person,false,
+person:17,Zahra Teimouri,person,false,
+person:18,Chengqian Wu,person,false,
+person:19,Fatemeh Arabyarmohammadi,person,false,
+person:20,Raylene Mitchell,person,false,
+person:21,Qian Sun,person,false,
+person:22,Goutham Rangarajan,person,false,
+person:23,Zhizheng Wu,person,false,
+person:24,Yangbo Ma,person,false,
+person:25,Sara Kopilovic,person,false,
+person:26,Lei Wang,person,false,
+person:27,Meng Zhang,person,false,
+person:28,Wei Wei,person,false,
+person:29,Sharon Otieno,person,false,
+person:30,Alicia Battaglia,person,false,
+person:31,Fatemeh Sadat Mousavizadeh Mojarad,person,false,
+person:32,Sara Bouzidi,person,false,
+person:33,Hannah Cameron,person,false,
+person:34,Christine (Jialang) Li,person,false,
+person:35,Diego Van Der Biest,person,false,
+person:36,Dr. Ahmed Ali,person,false,
+person:37,Dr. Amanda Ndubuisi,person,false,
+person:38,Dr. Xue Yao,person,false,
+person:39,Linke Huang,person,false,
+person:40,Dr. Harrison (Harry) Mills,person,false,
+person:41,Ebad Noman,person,false,
+person:42,Jacob Przywolski,person,false,
+person:43,Murat Kenez,person,false,
+person:44,Dr. Monika Stolar,person,false,
+person:45,Dr. Zahra Dijvejin,person,false,
+person:46,Gaopeng Jiang,person,false,
+person:47,Joseph Chiong,person,false,
+person:48,Jordan Rumscheidt,person,false,
+person:49,Molood Masoom Nataj,person,false,
+person:50,Roham Dorakhan,person,false,
+person:51,Dr. Lizhou Fan,person,false,
+person:52,Hafiz Ghulam Abbas,person,false,
+person:53,Kate Neville,person,true,
+person:54,David Silas,person,true,
+person:55,Michael Ross,person,true,
+person:56,Tracey Galloway,person,true,
+person:57,Laurel Besco,person,true,
+person:58,Cheryl Teelucksingh,person,true,
+person:59,Ryan Bullock,person,true,
+person:60,Melanie Zurba,person,true,
+person:61,Christina Hoicka,person,true,
+person:62,Alison Perrin,person,true,
+person:63,Shardul Tiwari,person,false,
+person:64,Emily MacCallum,person,false,
+person:65,SiLang Huang,person,false,
+person:66,Asiyah Choudry,person,false,
+person:67,Tabitha Elisha Evans,person,false,
+person:68,Shamim Anowar,person,false,
+person:69,Bex Mertz-Shea,person,false,
+person:70,Maeve Rothlin,person,false,
+person:71,Suzanne Chew,person,false,
+person:72,Leela McKinnon,person,false,
+person:73,Iva Seto,person,false,
+person:74,Cindy Lee,person,false,
+person:75,Raylene Mitchell,person,false,
+person:76,Sze Chai (Christy) Chiu,person,false,
+person:77,Connor Isaac,person,false,
+person:78,Maytal Lazarovic,person,false,
+person:79,Annie Cheng,person,false,
+person:80,Lesley Yang,person,false,
+person:81,Ahmad Hameed,person,false,
+person:82,Kenzie McCallum,person,false,
+person:83,Lulwama Mulalu,person,false,
+person:84,Rhea Mukerjee,person,false,
+person:85,Hosea Patrick,person,false,
+person:86,Graham MacDonald,person,false,
+person:87,Douglas McKinnon,person,false,
+pub:1,AgCu Catalysis for CO2 Conversion,pub,,1
+pub:2,Temperatures Effect on Carbonate Salt Production,pub,,1
+pub:3,Enhanced CO₂ Electrolysis via Membranes,pub,,1
+pub:4,CO2 Conversion to Clean Fuels,pub,,1
+pub:5,Cost-Effective CO2 Fuel Production,pub,,1
+pub:6,Optimizing N-Carbon for CO2 Reduction,pub,,1
+pub:7,"N,S-Doped Carbons for CO2 Reduction",pub,,1
+pub:8,Perovskite Cathodes for Syngas,pub,,1
+pub:9,Nanoparticles Boost CO2 Conversion,pub,,1
+pub:10,Electrolytic Cement Clinker Production,pub,,1
+pub:11,Limestone to Clinker via Electrolysis,pub,,1
+pub:12,Making CO-to-Ethylene Profitable,pub,,3
+pub:13,Review of CO2 Electrolyzers,pub,,2
+pub:14,Carbon Catalysts for Energy Systems,pub,,1
+pub:15,Perovskite Cathodes for Syngas,pub,,1
+pub:16,Mesoporous Carbons for O2/CO2,pub,,1
+pub:17,Compression Effects in CO2 Electrolyzers,pub,,1
+pub:18,Carbon Electrocatalysts for Energy,pub,,1
+pub:19,Engineered Cu2O for C2+ CO2R,pub,,1
+pub:20,CO2-to-Fuels: Catalyst Degradation,pub,,1
+pub:21,Mussel-Inspired Binders for Electrodes,pub,,1
+pub:22,Over-Compression in GDEs,pub,,1
+pub:23,Stabilized Cu for CO2→Ethylene,pub,,1
+pub:24,Active Sites for CO2→C2+,pub,,1
+pub:25,TEA of CO2 Conversion,pub,,1
+pub:26,Efficient Ethanol from CO2,pub,,2
+pub:27,GDE Deformation in CO2 Cells,pub,,1
+pub:28,N / N–S CICs for CO2R,pub,,1
+pub:29,Making Energy from CO2,pub,,1
+pub:30,CuAg Systems for CO2→CH4,pub,,1
+pub:31,Cu Sites for Acid CO2R,pub,,2
+pub:32,Anodic Upgrading for Epoxidation,pub,,0
+pub:33,Azo-POP Cathodes for Li-Ion,pub,,1
+pub:34,Electrolytic Clinker (2025),pub,,1
+pub:35,Urea-Treated Carbons for CO2R,pub,,1
+pub:36,In-Situ Azo Cathodes for Zn-Ion,pub,,1
+pub:37,Scaled CO-to-Alcohols,pub,,2
+pub:38,Bio-Derived Zn-Ion Electrodes,pub,,1
+pub:39,Durable High-Rate CO Electrolysis,pub,,1
+pub:40,Stable Organic Zn-Ion Batteries,pub,,1
+pub:41,Zero-Gap Electrolyzer for Clinker,pub,,1
+pub:42,Cu Catalysts for CO→Acetate,pub,,2
+pub:43,Voltage in CO2 Electrolyzers,pub,,2
+pub:44,Oxyfluoride Cathodes with Exsolution,pub,,2
+pub:45,Local CO/CO2 for Ethanol,pub,,1
+pub:46,C3+ from CO2 via Ni Nanoislands,pub,,2
+pub:47,Governance for Low-Emissions Power,pub,,1
+pub:48,Governance Models for Community Energy,pub,,1
+pub:49,Isolated Power Systems (Alaska),pub,,1
+pub:50,Converting CO₂ Emissions to Fuel,pub,,3
+pub:51,Isolated Power Systems (Iqaluit/Greenland),pub,,1
+pub:52,De-Risking Clean Energy O&M,pub,,1
+pub:53,Engaging Indigenous Communities on Energy,pub,,1
+pub:54,Co-Producing Climate Knowledge (3MT),pub,,1
+pub:55,Energy Efficiency & Indigenous Rights (MB),pub,,1
+pub:56,Old Crow Solar: Best Practices,pub,,1
+pub:57,Energy Governance in the North,pub,,1
+pub:58,Yukon Regional Discussion,pub,,1
+pub:59,Utility Panel: Integrating Renewables,pub,,1
+pub:60,Capacity Building for Community Energy,pub,,1
+pub:61,Film: Old Crow a Philosophy,pub,,1
+pub:62,Community Engagement & Carbon Conversion,pub,,1
+pub:63,Country Food & Co-Management,pub,,1
+pub:64,Place-Based Energy Geographies,pub,,1
+pub:65,From Capture to Conversion (Review),pub,,5
