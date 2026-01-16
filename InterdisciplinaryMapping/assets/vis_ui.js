@@ -489,6 +489,9 @@ window.IM_initUI = function() {
       // also wrap __flt_apply to re-run styling after filters
       var __orig_flt_apply = __flt_apply;
       __flt_apply = function(){ try { __orig_flt_apply(); } catch(e){} try { __ensureEdgeStyling(); } catch(e){} };
+  // Re-bind Apply button to the wrapped function and auto-apply filters on initial load
+  try { var fltApplyBtn = document.getElementById('flt_apply'); if (fltApplyBtn) fltApplyBtn.onclick = __flt_apply; } catch(e){}
+  try { __flt_apply(); } catch(e){}
 
     // 7) Add Publication helpers (Tom Select, preview, generate)
     function ap_populateAuthors() {
