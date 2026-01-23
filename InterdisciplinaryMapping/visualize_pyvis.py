@@ -1,9 +1,4 @@
 """Convenience script to run the visualizer."""
-from src.visualize_pyvis import main
-
-
-if __name__ == "__main__":
-    main()
 from pathlib import Path
 import os
 import webbrowser
@@ -21,7 +16,7 @@ def main():
     # Run exporter subprocess to refresh CSVs (keeps exporter decoupled).
     try:
         print("→ Running data/export_csv.py to refresh CSVs...")
-        subprocess.run(["python3", str(base_dir / "data" / "export_csv.py")], check=True)
+        subprocess.run(["python3", str(base_dir / "data" / "other" / "export_csv.py")], check=True)
     except subprocess.CalledProcessError as e:
         print("⚠️ Exporter failed; continuing with existing CSVs. Error:", e)
 

@@ -412,7 +412,25 @@ window.IM_initUI = function() {
         });
         var edgesArr = edges.get(); var showPubs = {};
         edgesArr.forEach(function(e){ var a=e.from,b=e.to; if (visiblePersons[a] || visiblePersons[b]){ var other = visiblePersons[a]? b : a; if ((other+'').indexOf('pub:')===0) showPubs[other]=true; } });
-        allNodes.forEach(function(n){ if (n.kind==='pub'){ var team=((n.team||'')+'').toLowerCase(); var show = !!showPubs[n.id] || ((sels.length>0)? !!selSet[team] : true); updates.push({ id:n.id, hidden:!show }); } });
+        // Publications are visible if (a) connected to any visible person, or (b) their team
+        // matches any selected subteam. Support composite team strings like
+        // "discover & direct" by checking for any token match.
+        allNodes.forEach(function(n){
+          if (n.kind==='pub'){
+            var teamStr = ((n.team||'')+'').toLowerCase();
+            var teamTokens = teamStr.split(/[^a-z]+/).filter(function(t){ return t && t.length; });
+            var teamMatch = false;
+            if (sels.length === 0) {
+              teamMatch = true; // no team filter selected -> allow
+            } else {
+              for (var ti=0; ti<teamTokens.length; ti++){
+                if (selSet[teamTokens[ti]]) { teamMatch = true; break; }
+              }
+            }
+            var show = !!showPubs[n.id] || teamMatch;
+            updates.push({ id:n.id, hidden:!show });
+          }
+        });
         nodes.update(updates);
         var eUpdates = []; edgesArr.forEach(function(e){ var na=nodes.get(e.from), nb=nodes.get(e.to); var hide=(na&&na.hidden)||(nb&&nb.hidden); eUpdates.push({ id:e.id, hidden: hide }); });
         edges.update(eUpdates);

@@ -86,6 +86,9 @@ def build_network(nodes_df, edges_df, people_meta, pubs_meta, pos_map, person_pu
             for aid in authors_ids:
                 if bool(people_meta.get(aid, {}).get("PI", False)):
                     pi_count += 1
+            # Normalize team for composite labels so the UI filter can match them flexibly
+            # e.g., "Discover & Direct" stays as-is here (UI tokenizes), but ensure it's a string
+            team = str(team)
             tooltip_lines = [f"<b>{full_title}</b>"]
             if team: tooltip_lines.append(f"Team: {team}")
             if ptype: tooltip_lines.append(f"Type: {ptype}")

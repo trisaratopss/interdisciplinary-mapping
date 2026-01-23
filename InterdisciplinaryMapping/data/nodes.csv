@@ -86,7 +86,67 @@ person:84,Rhea Mukerjee,person,false,
 person:85,Hosea Patrick,person,false,
 person:86,Graham MacDonald,person,false,
 person:87,Douglas McKinnon,person,false,
-pub:1,AgCu Catalysis for CO2 Conversion,pub,,1
+person:88,Matthew Reesor,person,false,
+person:89,Rugare Rukuni,person,false,
+person:90,Steven Qiu,person,false,
+person:91,Erica Kilius,person,false,
+person:92,Faustine Luo,person,false,
+person:93,Joe Collier,person,false,
+person:94,Catherine Shi,person,false,
+person:95,Dena Van De Coevering,person,false,
+person:96,Rahul Parhar,person,false,
+person:97,Rebecca Tough,person,false,
+person:98,Caitlyn Renowden,person,false,
+person:99,Sophie Roher,person,false,
+person:100,Nic Jekill,person,false,
+person:101,Cagla Akgul,person,false,
+person:102,Xi Wang,person,false,
+person:103,Sabrina Binti Shahidan,person,false,
+person:104,Bryanne Lamoureux,person,false,
+person:105,Jose Martini Costa,person,false,
+person:106,Sarah El-Shaarawi,person,false,
+person:107,Brigitte Gabrielle-Simpson,person,false,
+person:108,Megan MacDonald,person,false,
+person:109,Sara Chisatz,person,false,
+person:110,Jianing Zhu,person,false,
+person:111,Kit (Christopher) Murphy,person,false,
+person:112,Anna Mackay,person,false,
+person:113,Lila Asher,person,false,
+person:114,Maytal Lazarovic,person,false,
+person:115,Hosea Patrick,person,false,
+person:116,Ali Shayesteh,person,false,
+person:117,Tartela Alkayyali,person,false,
+person:118,Alexandre Tugirumubano,person,false,
+person:119,Amanda Brown,person,false,
+person:120,Jordan Rumscheidt,person,false,
+person:121,Abdulla Arham,person,false,
+person:122,Jaesuk Paeng,person,false,
+person:123,Dr. Harrison (Harry) Mills,person,false,
+person:124,Lei Wang,person,false,
+person:125,Pezhvak Moghaddasisaen,person,false,
+person:126,Siyan Lu,person,false,
+person:127,Dr. Zhiwen Chen,person,false,
+person:128,Dr. Aida Farsi,person,false,
+person:129,Genevieve Aguigwo,person,false,
+person:130,Dr. Shao Ren,person,false,
+person:131,Vasant Batta,person,false,
+person:132,Allison Grimwood,person,false,
+person:133,Dr. Alec Ji,person,false,
+person:134,Aubry Williams,person,false,
+person:135,Dr. Sabrina Scott,person,false,
+person:136,Dr. Amir Foroozan,person,false,
+person:137,Sungjin Park,person,false,
+person:138,Dr. Monika Stolar,person,false,
+person:139,First last,person,false,
+person:140,Eric Guan,person,false,
+person:141,Chris Fitzgibbon,person,false,
+person:142,David Boon,person,false,
+person:143,Vaidehi Pitre,person,false,
+person:144,Eric Riep,person,false,
+person:145,Emily Nishikawa,person,false,
+person:146,Hoda Touma,person,false,
+person:147,Brandon Bray,person,false,
+pub:1,Catalyst design to improve C-C coupling,pub,,1
 pub:2,Temperatures Effect on Carbonate Salt Production,pub,,1
 pub:3,Enhanced CO₂ Electrolysis via Membranes,pub,,1
 pub:4,CO2 Conversion to Clean Fuels,pub,,1
@@ -95,7 +155,7 @@ pub:6,Optimizing N-Carbon for CO2 Reduction,pub,,1
 pub:7,"N,S-Doped Carbons for CO2 Reduction",pub,,1
 pub:8,Perovskite Cathodes for Syngas,pub,,1
 pub:9,Nanoparticles Boost CO2 Conversion,pub,,1
-pub:10,Electrolytic Cement Clinker Production,pub,,1
+pub:10,Electrochemical cement decarbonization,pub,,1
 pub:11,Limestone to Clinker via Electrolysis,pub,,1
 pub:12,Making CO-to-Ethylene Profitable,pub,,3
 pub:13,Review of CO2 Electrolyzers,pub,,2
@@ -104,18 +164,18 @@ pub:15,Perovskite Cathodes for Syngas,pub,,1
 pub:16,Mesoporous Carbons for O2/CO2,pub,,1
 pub:17,Compression Effects in CO2 Electrolyzers,pub,,1
 pub:18,Carbon Electrocatalysts for Energy,pub,,1
-pub:19,Engineered Cu2O for C2+ CO2R,pub,,1
+pub:19,Engineered Cu2O for C2+ CO2R,pub,,2
 pub:20,CO2-to-Fuels: Catalyst Degradation,pub,,1
 pub:21,Mussel-Inspired Binders for Electrodes,pub,,1
 pub:22,Over-Compression in GDEs,pub,,1
-pub:23,Stabilized Cu for CO2→Ethylene,pub,,1
-pub:24,Active Sites for CO2→C2+,pub,,1
+pub:23,Stabilized Cu for CO2→Ethylene,pub,,2
+pub:24,Active Sites for CO2→C2+,pub,,2
 pub:25,TEA of CO2 Conversion,pub,,1
 pub:26,Efficient Ethanol from CO2,pub,,2
 pub:27,GDE Deformation in CO2 Cells,pub,,1
 pub:28,N / N–S CICs for CO2R,pub,,1
 pub:29,Making Energy from CO2,pub,,1
-pub:30,CuAg Systems for CO2→CH4,pub,,1
+pub:30,CuAg Systems for CO2→CH4,pub,,2
 pub:31,Cu Sites for Acid CO2R,pub,,2
 pub:32,Anodic Upgrading for Epoxidation,pub,,0
 pub:33,Azo-POP Cathodes for Li-Ion,pub,,1
@@ -129,9 +189,9 @@ pub:40,Stable Organic Zn-Ion Batteries,pub,,1
 pub:41,Zero-Gap Electrolyzer for Clinker,pub,,1
 pub:42,Cu Catalysts for CO→Acetate,pub,,2
 pub:43,Voltage in CO2 Electrolyzers,pub,,2
-pub:44,Oxyfluoride Cathodes with Exsolution,pub,,2
+pub:44,Oxyfluoride Cathodes with Exsolution,pub,,1
 pub:45,Local CO/CO2 for Ethanol,pub,,1
-pub:46,C3+ from CO2 via Ni Nanoislands,pub,,2
+pub:46,C3+ from CO2 via Ni Nanoislands,pub,,3
 pub:47,Governance for Low-Emissions Power,pub,,1
 pub:48,Governance Models for Community Energy,pub,,1
 pub:49,Isolated Power Systems (Alaska),pub,,1
@@ -151,3 +211,14 @@ pub:62,Community Engagement & Carbon Conversion,pub,,1
 pub:63,Country Food & Co-Management,pub,,1
 pub:64,Place-Based Energy Geographies,pub,,1
 pub:65,From Capture to Conversion (Review),pub,,5
+pub:66,Advancing electrocatalytic CO2 reduction: key strategies for scaling up to industrial applications,pub,,1
+pub:67,Microdomain tandem catalysis for efficient CO2-to-C2+ conversion at industrial current densities,pub,,1
+pub:68,"Low-emission cement clinker precursor production, enabled by electrolytic extraction of calcium from waste cement",pub,,1
+pub:69,Direct Electrosynthesis of C3+ Hydrocarbons from CO2 via Size Controlled Nickel Nanoislands on a Carbon Support,pub,,3
+pub:70,Hydroxyl-mediated interfacial oxophilicity engineering for efficient CO2-to-C2+ oxygenates conversion at industrial current densities,pub,,3
+pub:71,Co-electroreduction of CO and glyoxal promotes C3 products,pub,,2
+pub:72,Grain Boundary-Engineered Cu2O for Selective CO2-to-Acetate Conversion,pub,,1
+pub:73,Accelerated discovery of multi-element CO2 electrocatalysts with human-in-the-loop,pub,,2
+pub:74,Efficient amino-acid-based reactive capture of CO2 via nickel molecular catalyst,pub,,2
+pub:75,Confinement Reconstruction Unlocks Stable Ru Single Atom-Doped IrOx Anodes for Long-Term High-Rate CO2 Electrolysis,pub,,2
+pub:76,Supporting the City of Hamilton's community energy and emissions plan,pub,,3
