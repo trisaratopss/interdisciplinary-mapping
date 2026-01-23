@@ -8,6 +8,10 @@ body { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetic
 .legend { margin-top: 8px; color: #444; }
 .legend .box { display:inline-block; width:12px; height:12px; border:1px solid #555; margin-right:6px; vertical-align:middle; }
 .legend .person { background:#87CEEB; }
+/* Subteam person colors */
+.legend .person-discover { background:#6886d9; }
+.legend .person-direct { background:#d99b68; }
+.legend .person-develop { background:#99d968; }
 .legend .pub { background:#90EE90; margin-left:16px; }
 .legend .pub_pi { background:#F6C445; margin-left:16px; }
 .legend .hint { color:#777; margin-left:16px; font-size: 12px; }

@@ -48,6 +48,14 @@ def build_network(nodes_df, edges_df, people_meta, pubs_meta, pos_map, person_pu
             # Skip people with no publications to keep the graph focused
             if pub_count <= 0:
                 continue
+            # Color-code personnel by subteam
+            st = (subteam or "").strip().lower()
+            subteam_colors = {
+                "discover": "#6886d9",
+                "direct": "#d99b68",
+                "develop": "#99d968",
+            }
+            person_color = subteam_colors.get(st, color)
             tooltip = f"<b>{full_name}</b>" + (f"<br/>Subteam: {subteam}" if subteam else "")
             if pub_count:
                 tooltip += f"<br/>Publications: {pub_count}"
@@ -55,9 +63,9 @@ def build_network(nodes_df, edges_df, people_meta, pubs_meta, pos_map, person_pu
             net.add_node(
                 node_id,
                 label=display_label,
-                color=color,
+                color=person_color,
                 title=tooltip,
-                origColor=color,
+                origColor=person_color,
                 PI=bool(meta.get("PI", False)),
                 kind="person",
                 full_name=full_name,
