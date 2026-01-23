@@ -85,3 +85,63 @@
 {"id": 85, "name": "Hosea Patrick", "subteam": "Direct", "active": true, "PI": false}
 {"id": 86, "name": "Graham MacDonald", "subteam": "Direct", "active": true, "PI": false}
 {"id": 87, "name": "Douglas McKinnon", "subteam": "Direct", "active": true, "PI": false}
+{"id": 88, "name": "Matthew Reesor", "subteam": "Direct", "active": false, "PI": false}
+{"id": 89, "name": "Rugare Rukuni", "subteam": "Direct", "active": false, "PI": false}
+{"id": 90, "name": "Steven Qiu", "subteam": "Direct", "active": false, "PI": false}
+{"id": 91, "name": "Erica Kilius", "subteam": "Direct", "active": false, "PI": false}
+{"id": 92, "name": "Faustine Luo", "subteam": "Direct", "active": false, "PI": false}
+{"id": 93, "name": "Joe Collier", "subteam": "Direct", "active": false, "PI": false}
+{"id": 94, "name": "Catherine Shi", "subteam": "Direct", "active": false, "PI": false}
+{"id": 95, "name": "Dena Van De Coevering", "subteam": "Direct", "active": false, "PI": false}
+{"id": 96, "name": "Rahul Parhar", "subteam": "Direct", "active": false, "PI": false}
+{"id": 97, "name": "Rebecca Tough", "subteam": "Direct", "active": false, "PI": false}
+{"id": 98, "name": "Caitlyn Renowden", "subteam": "Direct", "active": false, "PI": false}
+{"id": 99, "name": "Sophie Roher", "subteam": "Direct", "active": false, "PI": false}
+{"id": 100, "name": "Nic Jekill", "subteam": "Direct", "active": false, "PI": false}
+{"id": 101, "name": "Cagla Akgul", "subteam": "Direct", "active": false, "PI": false}
+{"id": 102, "name": "Xi Wang", "subteam": "Direct", "active": false, "PI": false}
+{"id": 103, "name": "Sabrina Binti Shahidan", "subteam": "Direct", "active": false, "PI": false}
+{"id": 104, "name": "Bryanne Lamoureux", "subteam": "Direct", "active": false, "PI": false}
+{"id": 105, "name": "Jose Martini Costa", "subteam": "Direct", "active": false, "PI": false}
+{"id": 106, "name": "Sarah El-Shaarawi", "subteam": "Direct", "active": false, "PI": false}
+{"id": 107, "name": "Brigitte Gabrielle-Simpson", "subteam": "Direct", "active": false, "PI": false}
+{"id": 108, "name": "Megan MacDonald", "subteam": "Direct", "active": false, "PI": false}
+{"id": 109, "name": "Sara Chisatz", "subteam": "Direct", "active": false, "PI": false}
+{"id": 110, "name": "Jianing Zhu", "subteam": "Direct", "active": false, "PI": false}
+{"id": 111, "name": "Kit (Christopher) Murphy", "subteam": "Direct", "active": false, "PI": false}
+{"id": 112, "name": "Anna Mackay", "subteam": "Direct", "active": false, "PI": false}
+{"id": 113, "name": "Lila Asher", "subteam": "Direct", "active": false, "PI": false}
+{"id": 114, "name": "Maytal Lazarovic", "subteam": "Direct", "active": false, "PI": false}
+{"id": 115, "name": "Hosea Patrick", "subteam": "Direct", "active": false, "PI": false}
+{"id": 116, "name": "Ali Shayesteh", "subteam": "Discover", "active": false, "PI": false}
+{"id": 117, "name": "Tartela Alkayyali", "subteam": "Discover", "active": false, "PI": false}
+{"id": 118, "name": "Alexandre Tugirumubano", "subteam": "Discover", "active": false, "PI": false}
+{"id": 119, "name": "Amanda Brown", "subteam": "Discover", "active": false, "PI": false}
+{"id": 120, "name": "Jordan Rumscheidt", "subteam": "Discover", "active": false, "PI": false}
+{"id": 121, "name": "Abdulla Arham", "subteam": "Discover", "active": false, "PI": false}
+{"id": 122, "name": "Jaesuk Paeng", "subteam": "Discover", "active": false, "PI": false}
+{"id": 123, "name": "Dr. Harrison (Harry) Mills", "subteam": "Discover", "active": false, "PI": false}
+{"id": 124, "name": "Lei Wang", "subteam": "Discover", "active": false, "PI": false}
+{"id": 125, "name": "Pezhvak Moghaddasisaen", "subteam": "Discover", "active": false, "PI": false}
+{"id": 126, "name": "Siyan Lu", "subteam": "Discover", "active": false, "PI": false}
+{"id": 127, "name": "Dr. Zhiwen Chen", "subteam": "Discover", "active": false, "PI": false}
+{"id": 128, "name": "Dr. Aida Farsi", "subteam": "Discover", "active": false, "PI": false}
+{"id": 129, "name": "Genevieve Aguigwo", "subteam": "Discover", "active": false, "PI": false}
+{"id": 130, "name": "Dr. Shao Ren", "subteam": "Discover", "active": false, "PI": false}
+{"id": 131, "name": "Vasant Batta", "subteam": "Discover", "active": false, "PI": false}
+{"id": 132, "name": "Allison Grimwood", "subteam": "Discover", "active": false, "PI": false}
+{"id": 133, "name": "Dr. Alec Ji", "subteam": "Discover", "active": false, "PI": false}
+{"id": 134, "name": "Aubry Williams", "subteam": "Discover", "active": false, "PI": false}
+{"id": 135, "name": "Dr. Sabrina Scott", "subteam": "Discover", "active": false, "PI": false}
+{"id": 136, "name": "Dr. Amir Foroozan", "subteam": "Discover", "active": false, "PI": false}
+{"id": 137, "name": "Sungjin Park", "subteam": "Discover", "active": false, "PI": false}
+{"id": 138, "name": "Dr. Monika Stolar", "subteam": "Discover", "active": false, "PI": false}
+{"id": 139, "name": "First last", "subteam": "Develop", "active": false, "PI": false}
+{"id": 140, "name": "Eric Guan", "subteam": "Develop", "active": false, "PI": false}
+{"id": 141, "name": "Chris Fitzgibbon", "subteam": "Develop", "active": false, "PI": false}
+{"id": 142, "name": "David Boon", "subteam": "Develop", "active": true, "PI": false}
+{"id": 143, "name": "Vaidehi Pitre", "subteam": "Develop", "active": true, "PI": false}
+{"id": 144, "name": "Eric Riep", "subteam": "Develop", "active": true, "PI": false}
+{"id": 145, "name": "Emily Nishikawa", "subteam": "Develop", "active": true, "PI": false}
+{"id": 146, "name": "Hoda Touma", "subteam": "Develop", "active": true, "PI": false}
+{"id": 147, "name": "Brandon Bray", "subteam": "Develop", "active": true, "PI": false}
